@@ -15,6 +15,9 @@ public class SimpleRestController {
 	@Autowired
 	private BookService bookService;
 	
+	private void print() {
+		System.out.println("Hi");
+	}
 	
 		/*
 		@GetMapping("/all-books")
