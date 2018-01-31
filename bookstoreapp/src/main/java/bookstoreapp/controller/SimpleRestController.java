@@ -17,7 +17,7 @@ public class SimpleRestController {
 	
 	private void print() {
 		System.out.println("Hi");
-		System.out.println("Hello");
+		System.out.println("Hello2332233");
 	}
 	
 		/*
