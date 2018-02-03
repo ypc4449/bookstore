@@ -16,8 +16,7 @@ public class SimpleRestController {
 	private BookService bookService;
 	
 	private void print() {
-		System.out.println("Hi");
-		System.out.println("Hello2332233");
+		
 	}
 	
 		/*
